@@ -24,6 +24,11 @@ const projects = [
     githubLink: "https://github.com/jasurbek021/snap-finish",
     vercelLink: "https://snap-lime.vercel.app/",
   },
+  {
+    title: "splliter",
+    githubLink: "https://github.com/jasurbek021/splliter",
+    vercelLink: "https://splliter.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
