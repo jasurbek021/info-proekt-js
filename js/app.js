@@ -28,7 +28,12 @@ const projects = [
     title: "splliter",
     githubLink: "https://github.com/jasurbek021/splliter",
     vercelLink: "https://splliter.vercel.app/",
-  },
+  }
+  {
+    title: "vidio",
+    githubLink: "https://github.com/jasurbek021/vidio",
+    vercelLink: "https://vidio-one.vercel.app/",
+  },,
 ];
 
 const template = document.querySelector("template");
