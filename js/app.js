@@ -33,7 +33,12 @@ const projects = [
     title: "vidio",
     githubLink: "https://github.com/jasurbek021/vidio",
     vercelLink: "https://vidio-one.vercel.app/",
-  },,
+  },
+  {
+    title: "Jacob Paulaner",
+    githubLink: "https://github.com/jasurbek021/finish",
+    vercelLink: "https://finsh-alpha.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
