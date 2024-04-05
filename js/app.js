@@ -49,6 +49,11 @@ const projects = [
     githubLink: "https://github.com/jasurbek021/animatsaya",
     vercelLink: "https://animatsaya.vercel.app/",
   },
+  {
+    title: "CROWDFUN",
+    githubLink: "https://github.com/jasurbek021/CROWDFUN",
+    vercelLink: "https://crowdfun-sigma.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
