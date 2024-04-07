@@ -56,8 +56,8 @@ const projects = [
   },
   {
     title: "imtxon 1",
-    githubLink: "https://github.com/jasurbek021/1-imtxon",
-    vercelLink: "https://1-imtxon.vercel.app/",
+    githubLink: "https://github.com/jasurbek021/1-oy-imthon",
+    vercelLink: "https://imthon-rose.vercel.app/about.html",
   },
   {
     title: "imtxon 2",
