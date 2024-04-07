@@ -54,6 +54,16 @@ const projects = [
     githubLink: "https://github.com/jasurbek021/CROWDFUN",
     vercelLink: "https://crowdfun-sigma.vercel.app/",
   },
+  {
+    title: "imtxon 1",
+    githubLink: "https://github.com/jasurbek021/1-imtxon",
+    vercelLink: "https://1-imtxon.vercel.app/",
+  },
+  {
+    title: "imtxon 2",
+    githubLink: "https://github.com/jasurbek021/2-imtxon",
+    vercelLink: "https://2-imtxon.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
