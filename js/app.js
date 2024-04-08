@@ -40,11 +40,6 @@ const projects = [
     vercelLink: "https://finsh-alpha.vercel.app/",
   },
   {
-    title: "CREATEX",
-    githubLink: "https://github.com/jasurbek021/xaqiqiy-kred_x",
-    vercelLink: "https://xaqiqiy-kred-x.vercel.app/servic/index.html",
-  },
-  {
     title: "animatsya topmlam",
     githubLink: "https://github.com/jasurbek021/animatsaya",
     vercelLink: "https://animatsaya.vercel.app/",
@@ -63,6 +58,11 @@ const projects = [
     title: "imtxon 2",
     githubLink: "https://github.com/jasurbek021/2-imtxon",
     vercelLink: "https://2-imtxon.vercel.app/",
+  },
+  {
+    title: "CREATEX",
+    githubLink: "https://github.com/jasurbek021/contak",
+    vercelLink: "https://contak.vercel.app/",
   },
 ];
 
