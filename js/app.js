@@ -56,8 +56,8 @@ const projects = [
   },
   {
     title: "imtxon 2",
-    githubLink: "https://github.com/jasurbek021/2-imtxon",
-    vercelLink: "https://2-imtxon.vercel.app/",
+    githubLink: "https://github.com/jasurbek021/designo",
+    vercelLink: "https://designo-vert.vercel.app/index.html",
   },
   {
     title: "CREATEX",
