@@ -64,6 +64,11 @@ const projects = [
     githubLink: "https://github.com/jasurbek021/contak",
     vercelLink: "https://contak.vercel.app/",
   },
+  {
+    title: "CREATEX",
+    githubLink: "https://github.com/jasurbek021/mustaqil-ish",
+    vercelLink: "https://mustaqil-ish.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
