@@ -65,7 +65,7 @@ const projects = [
     vercelLink: "https://contak.vercel.app/",
   },
   {
-    title: "CREATEX",
+    title: "js mustaqil ish",
     githubLink: "https://github.com/jasurbek021/mustaqil-ish",
     vercelLink: "https://mustaqil-ish.vercel.app/",
   },
