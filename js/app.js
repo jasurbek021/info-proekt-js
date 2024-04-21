@@ -69,6 +69,11 @@ const projects = [
     githubLink: "https://github.com/jasurbek021/mustaqil-ish",
     vercelLink: "https://mustaqil-ish.vercel.app/",
   },
+  {
+    title: "js mustaqil ish 2 vazifa",
+    githubLink: "https://github.com/jasurbek021/js-masalalar",
+    vercelLink: "https://js-masalalar.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
