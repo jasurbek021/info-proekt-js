@@ -79,6 +79,11 @@ const projects = [
     githubLink: "https://github.com/jasurbek021/uy-ish-js",
     vercelLink: "https://uy-ish-js.vercel.app/",
   },
+  {
+    title: "js uy ish 48 masala",
+    githubLink: "https://github.com/jasurbek021/js-masala-48",
+    vercelLink: "https://js-masala-48.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
