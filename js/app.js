@@ -94,6 +94,11 @@ const projects = [
     githubLink: "https://github.com/jasurbek021/js-masalari-7-dars",
     vercelLink: "https://js-masalari-7-dars.vercel.app/",
   },
+  {
+    title: "9 daars js",
+    githubLink: "https://github.com/jasurbek021/js-9-dars",
+    vercelLink: "https://js-9-dars.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
