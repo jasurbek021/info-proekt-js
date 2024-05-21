@@ -109,6 +109,11 @@ const projects = [
     githubLink: "https://github.com/jasurbek021/imthon-tayorgalik",
     vercelLink: "https://imthon-tayorgalik.vercel.app/",
   },
+  {
+    title: "imthonga tayorgarli 11 dars",
+    githubLink: "https://github.com/jasurbek021/5-3-dars-1-2-AMALIYOTLAR",
+    vercelLink: "https://2-amaliyotlar.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
