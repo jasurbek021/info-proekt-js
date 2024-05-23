@@ -110,9 +110,14 @@ const projects = [
     vercelLink: "https://imthon-tayorgalik.vercel.app/",
   },
   {
-    title: "imthonga tayorgarli 11 dars",
+    title: "amalyot",
     githubLink: "https://github.com/jasurbek021/5-3-dars-1-2-AMALIYOTLAR",
     vercelLink: "https://2-amaliyotlar.vercel.app/",
+  },
+  {
+    title: "2 dars 5 oy",
+    githubLink: "https://github.com/jasurbek021/nexia-2",
+    vercelLink: "https://nexia-2.vercel.app/",
   },
 ];
 
