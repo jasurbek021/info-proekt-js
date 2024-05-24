@@ -119,6 +119,11 @@ const projects = [
     githubLink: "https://github.com/jasurbek021/nexia-2",
     vercelLink: "https://nexia-2.vercel.app/",
   },
+  {
+    title: "musik sayit",
+    githubLink: "https://github.com/jasurbek021/musik-sayit",
+    vercelLink: "https://musik-sayit.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
