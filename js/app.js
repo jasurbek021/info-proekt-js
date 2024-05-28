@@ -124,6 +124,11 @@ const projects = [
     githubLink: "https://github.com/jasurbek021/musik-sayit",
     vercelLink: "https://musik-sayit.vercel.app/",
   },
+  {
+    title: "dram kit",
+    githubLink: "https://github.com/jasurbek021/Drum-Kit",
+    vercelLink: "https://drum-kit-kohl-seven.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
