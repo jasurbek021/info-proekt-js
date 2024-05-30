@@ -134,6 +134,11 @@ const projects = [
     githubLink: "https://github.com/jasurbek021/Todo",
     vercelLink: "https://todo-nu-umber.vercel.app/",
   },
+  {
+    title: "todo",
+    githubLink: "https://github.com/jasurbek021/Guess-Number",
+    vercelLink: "https://guess-number-six-alpha.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
