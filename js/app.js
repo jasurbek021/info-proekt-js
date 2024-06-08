@@ -140,9 +140,14 @@ const projects = [
     vercelLink: "https://guess-number-six-alpha.vercel.app/",
   },
   {
-    title: "todo",
+    title: "9 dars",
     githubLink: "https://github.com/jasurbek021/9-dars",
     vercelLink: "https://9-dars-tau.vercel.app/",
+  },
+  {
+    title: "10 dars",
+    githubLink: "https://github.com/jasurbek021/Online-Market.5.10-homework",
+    vercelLink: "https://online-market-5-10-homework-rose.vercel.app/",
   },
 ];
 
