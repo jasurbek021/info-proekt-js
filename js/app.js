@@ -4,6 +4,11 @@ const projects = [
     githubLink: "https://github.com/jasurbek021/5-oy-5-dars",
     vercelLink: "https://5-oy-5-dars-two.vercel.app/",
   },
+  {
+    title: " 5 oy 2dars",
+    githubLink: "https://github.com/jasurbek021/5-oy-2-dars",
+    vercelLink: "https://5-oy-2-dars-ecru.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
