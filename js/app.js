@@ -1,13 +1,18 @@
 const projects = [
   {
-    title: " 5 oy 8dars",
-    githubLink: "https://github.com/jasurbek021/TO-DO--5.7.1-homework",
-    vercelLink: "https://to-do-5-7-1-homework-ten.vercel.app/",
+    title: "begraunt color",
+    githubLink: "https://github.com/jasurbek021/begraunt-color",
+    vercelLink: "https://begraunt-color.vercel.app/",
   },
   {
-    title: " 5 oy 2dars",
-    githubLink: "https://github.com/jasurbek021/5-oy-2-dars",
-    vercelLink: "https://5-oy-2-dars-ecru.vercel.app/",
+    title: "my key info",
+    githubLink: "https://github.com/jasurbek021/key",
+    vercelLink: "https://key-sand.vercel.app/",
+  },
+  {
+    title: "madal",
+    githubLink: "https://github.com/jasurbek021/madal",
+    vercelLink: "https://madal.vercel.app/",
   },
 ];
 
