@@ -1,18 +1,13 @@
 const projects = [
   {
-    title: "begraunt color",
-    githubLink: "https://github.com/jasurbek021/begraunt-color",
-    vercelLink: "https://begraunt-color.vercel.app/",
+    title: "social-links-profile",
+    githubLink: "https://github.com/jasurbek021/social-links-profile",
+    vercelLink: "https://social-links-profile-ten-beige.vercel.app/",
   },
   {
-    title: "my key info",
-    githubLink: "https://github.com/jasurbek021/key",
-    vercelLink: "https://key-sand.vercel.app/",
-  },
-  {
-    title: "madal",
-    githubLink: "https://github.com/jasurbek021/madal",
-    vercelLink: "https://madal.vercel.app/",
+    title: "blog-preview-card",
+    githubLink: "https://github.com/jasurbek021/blog-preview-card",
+    vercelLink: "https://blog-preview-card-six-jet.vercel.app/",
   },
 ];
 
